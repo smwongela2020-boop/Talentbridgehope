@@ -1,2 +1,2 @@
-# my-bot
-trading assistant
+# my-web
+consultancy firm
